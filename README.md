@@ -19,12 +19,13 @@ The most popular locations directly coincide with population density and tourism
 
 Nearly all rides are finished within the hour, which should help with pricing structure
 
-![image](https://user-images.githubusercontent.com/91917546/153697217-d1399087-23b2-4d2e-953a-3ee3815e1373.png)
+![image](https://user-images.githubusercontent.com/91917546/153697569-b6b787db-1dfe-44f7-9173-92346b45c1a0.png)
+
 
 
 Males appear to be about 3 times more likely to checkout bikes, but the ride times between males and females are about the same
 
-![image](https://user-images.githubusercontent.com/91917546/153697247-b3ff0190-ee1b-4c70-8ea2-0fa9c9a39459.png)
+![image](https://user-images.githubusercontent.com/91917546/153697594-feee6749-fff0-4119-b9ef-09868ea788c7.png)
 
 
 As in the earlier image for bike repair times, we can see below that the most popular times for riders are the morning and evening rush hour periods
