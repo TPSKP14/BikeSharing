@@ -34,12 +34,14 @@ As in the earlier image for bike repair times, we can see below that the most po
 
 As was the same findings with gender and length of ride, we can see in the below that timing of rides has little to do with gender as well
 
-![image](https://user-images.githubusercontent.com/91917546/153697316-5fdc663d-fcaa-49f3-ab82-a7ec4af5855e.png)
+![image](https://user-images.githubusercontent.com/91917546/153697629-fcd899ac-b993-45a3-a099-40721f69c773.png)
+
 
 
 There is little variance in the timing of when customers rent, but what is apparent is that male subscribers are the largest proportion of bike sharing participants and stay fairly consistent with their bike sharing patterns
 
-![image](https://user-images.githubusercontent.com/91917546/153697352-30e52494-f1d2-4c65-a4dc-c3f6faf8d20c.png)
+![image](https://user-images.githubusercontent.com/91917546/153697653-0b556f68-c6e9-46f5-b4be-626b816a3f36.png)
+
 
 
 
